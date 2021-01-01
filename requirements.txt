@@ -6,4 +6,3 @@ transformers
 ./sentence-transformers
 tornado
 pandas
-nmslib
